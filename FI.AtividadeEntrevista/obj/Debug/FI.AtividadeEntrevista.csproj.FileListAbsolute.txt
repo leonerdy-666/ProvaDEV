@@ -1,0 +1,13 @@
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\Scriban.dll
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\Scriban.xml
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\obj\Debug\FI.Ativi.A54B2C84.Up2Date
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\leona\Documents\Leonardo Backup\Estudos\ProvaDEV\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
