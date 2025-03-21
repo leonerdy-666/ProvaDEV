@@ -138,6 +138,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="helper\StringFunctions.cs" />
+    <Compile Include="helper\ValidaCPF.cs" />
     <Compile Include="Models\ClienteBeneficiarioModel.cs" />
     <Compile Include="Models\ClienteModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

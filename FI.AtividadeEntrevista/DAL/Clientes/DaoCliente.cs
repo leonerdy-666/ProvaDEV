@@ -129,7 +129,7 @@ namespace FI.AtividadeEntrevista.DAL
             parametros.Add(new System.Data.SqlClient.SqlParameter("ID", cliente.Id));
             parametros.Add(new System.Data.SqlClient.SqlParameter("Cpf", CpfInt));
 
-            base.Executar("FI_SP_AltClienteV2", parametros);
+            base.Executar("FI_SP_AltCliente", parametros);
         }
 
 
